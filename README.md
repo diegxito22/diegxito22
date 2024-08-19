@@ -1,5 +1,5 @@
 # 💫 About Me:
-Proyecto Jonathan Bassedas<br>busco hacer compañerismo con otros programadores<br>aprendiendo Java FX
+Participando en: Proyecto Jonathan Bassedas<br>busco hacer compañerismo con otros programadores<br>aprendiendo Java FX
 
 
 ## 🌐 Socials:
