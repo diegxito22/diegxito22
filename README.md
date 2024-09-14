@@ -11,6 +11,5 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegx22v&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Diegx22v&icon=2&color=3)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Diegx22v&label=Visitas&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
