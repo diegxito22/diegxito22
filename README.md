@@ -78,5 +78,6 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 
 
 ###
-
-![](https://github-readme-stats .vercel.app/api/top-langs/?username =Diegx22v&theme=dark&hide_border= false&include_all_commits=false& count_private=false&layout=compact )
+ 
+# stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username =Diegx22v&theme=dark&hide_border= false&include_all_commits=false& count_private=false&layout=compact )
