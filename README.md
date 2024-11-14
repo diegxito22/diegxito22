@@ -22,7 +22,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Bienvenido a mi perfil, Soy un estudiante que le gusta aprender por su cuenta <br> Tengo algunas especialidades que las puedes ver a continuación, revisa y si gustas contactame ✌️</p>
 
 ###
 
