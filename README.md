@@ -20,18 +20,18 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 <h2 align="left">Hola 👋! Mi nombre es: Diego.</h2> <img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
 
-###
+
 
 <p align="left">Bienvenido a mi perfil, Soy un estudiante que le gusta aprender por su cuenta <br> Tengo algunas especialidades que las puedes ver a continuación, revisa y si gustas contactame ✌️</p>
 
-###
+
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diegx22v&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diegx22v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
 </div>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -59,11 +59,11 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/Diegx22v) [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/diego-v-634874304/)  
 
 
-###
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kxva3flx476bzhrg2qtsoqobuy)
 
