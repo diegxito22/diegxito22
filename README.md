@@ -72,9 +72,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Diego.lv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Diego.lv&count=5" alt="Spotify recently played"  />
-  </a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kxva3flx476bzhrg2qtsoqobuy)
 </div>
 
 ###
