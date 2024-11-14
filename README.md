@@ -71,9 +71,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 
 ###
 
-<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kxva3flx476bzhrg2qtsoqobuy)
-</div>
 
 ###
 
