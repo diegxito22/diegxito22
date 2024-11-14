@@ -17,7 +17,8 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kxva3flx476bzhrg2qtsoqobuy)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h2 align="left">Hola 👋! Mi nombre es: Diego.</h2>
+<h2 align="left">Hola 👋! Mi nombre es: Diego.</h2> <img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
+
 
 ###
 
@@ -68,7 +69,6 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 
 ###
 
-<img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
 ###
 
