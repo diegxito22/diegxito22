@@ -28,7 +28,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diegxd22v&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diegx22v&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="140" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diegx22v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
 
 </div>
@@ -64,7 +64,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 
 
 
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/Diegx22v) [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/diego-v-634874304/)  
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/Diegxd22v) [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/diego-v-634874304/)  
 
 
 
