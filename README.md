@@ -19,6 +19,10 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="left">Hola 👋! Mi nombre es: Diego.</h2> <img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
+
+<p align="left">Bienvenido a mi perfil<br> Tengo algunas especialidades que las puedes ver a continuación, revisa y si gustas contactame ✌️</p>
+
+
 <h3>Info:</h3>
 <ul>
   <li>Pais: Ecuador</li>
@@ -31,7 +35,6 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 
 
 
-<p align="left">Bienvenido a mi perfil, Soy un estudiante que le gusta aprender por su cuenta <br> Tengo algunas especialidades que las puedes ver a continuación, revisa y si gustas contactame ✌️</p>
 
 
 
