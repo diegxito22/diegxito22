@@ -19,6 +19,15 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="left">Hola 👋! Mi nombre es: Diego.</h2> <img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
+<h3>Info:</h3>
+<ul>
+  <li>Pais: Ecuador</li>
+  <li>Ciudad: Durán</li>
+  <li>Colegio: Unidad Educativa Particular Bilingüe Delfos</li>
+  <li>Estudiante de Segundo Bachillerato</li>
+  <li>Edad: 16 años </li>
+  <li>Lenguaje de programacion favorito: Java y Kotlin</li>
+</ul>
 
 
 
