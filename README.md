@@ -28,7 +28,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
   <li>Pais: Ecuador</li>
   <li>Ciudad: Durán</li>
   <li>Colegio: Unidad Educativa Particular Bilingüe Delfos</li>
-  <li>Estudiante de Segundo Bachillerato</li>
+  <li>Estudiante de Tercero Bachillerato</li>
   <li>Edad: 16 años </li>
   <li>Lenguaje de programacion favorito: Java y Kotlin</li>
 </ul>
