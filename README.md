@@ -20,8 +20,6 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 <h2 align="left">Hola 👋!</h2> <img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
 
-<p align="left">Bienvenido a mi perfil<br> Tengo algunas especialidades que las puedes ver a continuación ✌️</p>
-
 
 <h3>Info:</h3>
 <ul>
