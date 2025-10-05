@@ -25,7 +25,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 <ul>
   <li>Pais: Ecuador</li>
   <li>Estudiante de Tercero Bachillerato</li>
-  <li>Edad: 16 años </li>
+  <li>Edad: 17 años </li>
   <li>Lenguaje de programacion favorito: Java / C++</li>
 </ul>
 
